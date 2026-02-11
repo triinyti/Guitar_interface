@@ -1,0 +1,162 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\Jakob\Documents\dev\GuitarPreAmp\simulation.asc
+Start Time: Wed Feb  4 17:07:32 2026
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = modified trap
+WARNING: Node N005 is floating.
+
+WARNING: Less than two connections to node n005.  This node is used by c14.
+WARNING: Less than two connections to node nc_02.  This node is used by v8.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195312
+vernier = 0.000976562
+Gmin = 1.34218
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 0.195312%
+Source Step = 0.224905%
+Source Step = 0.254498%
+Source Step = 0.284091%
+Source Step = 0.313684%
+Source Step = 0.343277%
+vernier = 0.00146484
+Source Step = 0.380268%
+Source Step = 0.424657%
+Source Step = 0.469046%
+Source Step = 0.513435%
+Source Step = 0.557824%
+vernier = 0.00219727
+Source Step = 0.611091%
+Source Step = 0.677675%
+Source Step = 0.744259%
+Source Step = 0.810843%
+Source Step = 0.877427%
+vernier = 0.0032959
+Source Step = 0.953998%
+Source Step = 1.05387%
+Source Step = 1.15375%
+Source Step = 1.25363%
+Source Step = 1.3535%
+vernier = 0.00494385
+Source Step = 1.46336%
+Source Step = 1.61318%
+Source Step = 1.76299%
+Source Step = 1.9128%
+Source Step = 2.06262%
+vernier = 0.00741577
+Source Step = 2.21992%
+Source Step = 2.44464%
+Source Step = 2.66936%
+Source Step = 2.89408%
+Source Step = 3.1188%
+Source Step = 3.34352%
+vernier = 0.0111237
+Source Step = 3.6806%
+Source Step = 4.01769%
+Source Step = 4.35477%
+Source Step = 4.69185%
+Source Step = 5.02893%
+vernier = 0.0166855
+Source Step = 5.51769%
+Source Step = 6.02331%
+Source Step = 6.52894%
+Source Step = 7.03456%
+Source Step = 7.54018%
+vernier = 0.0250282
+Source Step = 8.24805%
+Source Step = 9.00648%
+Source Step = 9.76491%
+Source Step = 10.5233%
+Source Step = 11.2818%
+vernier = 0.0375423
+Source Step = 12.3057%
+Source Step = 13.4433%
+Source Step = 14.5809%
+Source Step = 15.7186%
+Source Step = 16.8562%
+vernier = 0.0563135
+Source Step = 18.3352%
+Source Step = 20.0417%
+Source Step = 21.7481%
+Source Step = 23.4546%
+Source Step = 25.1611%
+vernier = 0.0844703
+Source Step = 27.2941%
+Source Step = 29.8539%
+Source Step = 32.4136%
+Source Step = 34.9733%
+Source Step = 37.533%
+vernier = 0.126705
+Source Step = 40.6046%
+Source Step = 44.4442%
+Source Step = 48.2837%
+Source Step = 52.1233%
+Source Step = 55.9628%
+vernier = 0.190058
+Source Step = 60.3783%
+Source Step = 66.1377%
+Source Step = 71.897%
+Source Step = 77.6563%
+Source Step = 83.4157%
+vernier = 0.285087
+Source Step = 89.751%
+Source Step = 96.8781%
+vernier = 0.0178179
+Source Step = 96.6993%
+Source Step = 96.733%
+Source Step = 96.7668%
+Source Step = 96.8005%
+Source Step = 96.8343%
+Source Step = 96.868%
+vernier = 0.00167043
+Source Step = 96.9102%
+Source Step = 96.9608%
+Source Step = 97.0114%
+Source Step = 97.0621%
+Source Step = 97.1127%
+vernier = 0.00250565
+Source Step = 97.1734%
+Source Step = 97.2493%
+Source Step = 97.3253%
+Source Step = 97.4012%
+Source Step = 97.4771%
+vernier = 0.00375847
+Source Step = 97.5644%
+Source Step = 97.6783%
+Source Step = 97.7922%
+Source Step = 97.9061%
+Source Step = 98.02%
+vernier = 0.00563771
+Source Step = 98.1453%
+Source Step = 98.3161%
+Source Step = 98.487%
+Source Step = 98.6578%
+Source Step = 98.8287%
+vernier = 0.00845657
+Source Step = 99.008%
+Source Step = 99.2643%
+Source Step = 99.5206%
+Source Step = 99.7768%
+Source stepping succeeded in finding the operating point.
+
+Total elapsed time: 110.485 seconds.
+

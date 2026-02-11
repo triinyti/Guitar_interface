@@ -1,0 +1,53 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\Jakob\Documents\dev\GuitarPreAmp\Draft1.asc
+Start Time: Thu Feb  5 14:51:56 2026
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = modified trap
+reltol = 0.01
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 8.16968e-07
+vernier = 0.166667
+Gmin = 5.65427e-07
+vernier = 0.222222
+vernier = 0.296296
+Gmin = 3.07152e-07
+vernier = 0.395061
+vernier = 0.526748
+Gmin = 1.18142e-07
+vernier = 0.702331
+Gmin = 2.72884e-08
+vernier = 0.936441
+vernier = 1
+Gmin = 3.16384e-09
+Gmin = 3.39714e-10
+Gmin = 3.64766e-11
+Gmin = 3.91664e-12
+Gmin = 4.20546e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Ignoring empty pin current: Ix(u1:8)
+Ignoring empty pin current: Ix(u2:6)
+Ignoring empty pin current: Ix(u2:7)
+Ignoring empty pin current: Ix(u3:8)
+Ignoring empty pin current: Ix(u1:8)
+Ignoring empty pin current: Ix(u2:6)
+Ignoring empty pin current: Ix(u2:7)
+Ignoring empty pin current: Ix(u3:8)
+Total elapsed time: 1832.687 seconds.
+
