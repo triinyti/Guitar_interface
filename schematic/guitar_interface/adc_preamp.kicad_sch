@@ -1875,7 +1875,7 @@
 	(symbol
 		(lib_id "Amplifier_Operational:OPA4134")
 		(at 180.34 93.98 0)
-		(unit 2)
+		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1971,7 +1971,7 @@
 			(project ""
 				(path "/b77251ff-4eed-421f-8c84-983bb16b8e4c/3de8d587-ab61-418a-a618-c771618873d3"
 					(reference "U6")
-					(unit 2)
+					(unit 3)
 				)
 			)
 		)
@@ -2048,7 +2048,7 @@
 		(lib_id "Amplifier_Operational:OPA4134")
 		(at 106.68 91.44 0)
 		(mirror x)
-		(unit 3)
+		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -2143,7 +2143,7 @@
 			(project ""
 				(path "/b77251ff-4eed-421f-8c84-983bb16b8e4c/3de8d587-ab61-418a-a618-c771618873d3"
 					(reference "U6")
-					(unit 3)
+					(unit 2)
 				)
 			)
 		)
